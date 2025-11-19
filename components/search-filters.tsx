@@ -7,7 +7,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from '@/components/ui/select'
-
+// Props for the SearchFilters component
 interface SearchFiltersProps {
   searchTerm: string
   onSearchChange: (value: string) => void
