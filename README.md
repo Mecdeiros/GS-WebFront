@@ -133,4 +133,7 @@ Possíveis melhorias futuras:
 
 Este projeto foi desenvolvido para fins educacionais.
 
-##  Autor
+##  Autores
+- Guilherme de Medeiros RM:561699
+- Victor Pucci Ferreira RM:561736
+- Murilo Henrique Vieira Cruz RM:563743
