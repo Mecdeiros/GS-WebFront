@@ -6,6 +6,7 @@ import './globals.css'
 const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
+// Google Fonts setup
 export const metadata: Metadata = {
   title: 'Gs-web-front',
   icons: {

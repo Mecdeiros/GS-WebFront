@@ -10,6 +10,7 @@ import type { Professional } from '@/types/professional'
 
 const ITEMS_PER_PAGE = 12
 
+// Functional component for the Home page
 export default function Home() {
   const [professionals, setProfessionals] = useState<Professional[]>([])
   const [selectedProfessional, setSelectedProfessional] = useState<Professional | null>(null)
