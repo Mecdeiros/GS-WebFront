@@ -35,7 +35,7 @@ Network Pro é uma Single Page Application (SPA) desenvolvida com React, JavaScr
 
 1. Clone o repositório:
 ```bash
-git clone [<URL_DO_REPOSITORIO>](https://github.com/Mecdeiros/GS-WebFront)
+git clone https://github.com/Mecdeiros/GS-WebFront
 ```
 
 2. Navegue até o diretório do projeto:
