@@ -1,0 +1,1889 @@
+{
+  "professionals": [
+    {
+      "id": 1,
+      "name": "Ana Silva",
+      "title": "Product Manager",
+      "area": "Tech",
+      "city": "São Paulo",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Passionate about creating innovative solutions that solve real-world problems. 5+ years of experience in product management.",
+      "education": [
+        {
+          "school": "USP",
+          "degree": "Bachelor's in Computer Science",
+          "year": 2019
+        }
+      ],
+      "experience": [
+        {
+          "company": "TechCorp Brasil",
+          "role": "Senior Product Manager",
+          "duration": "2021 - Present"
+        },
+        {
+          "company": "StartupX",
+          "role": "Product Manager",
+          "duration": "2019 - 2021"
+        }
+      ],
+      "skills": ["Product Strategy", "Analytics", "User Research", "Agile", "Leadership"],
+      "softSkills": ["Communication", "Problem Solving", "Creativity", "Empathy"],
+      "hobbies": ["Rock climbing", "Photography", "Mentoring"],
+      "connections": 350
+    },
+    {
+      "id": 2,
+      "name": "Carlos Mendes",
+      "title": "Full Stack Developer",
+      "area": "Tech",
+      "city": "Rio de Janeiro",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Experienced full-stack developer specializing in scalable web applications and cloud infrastructure.",
+      "education": [
+        {
+          "school": "UFRJ",
+          "degree": "Bachelor's in Information Systems",
+          "year": 2018
+        }
+      ],
+      "experience": [
+        {
+          "company": "CloudSystems",
+          "role": "Full Stack Developer",
+          "duration": "2020 - Present"
+        },
+        {
+          "company": "WebAgency Pro",
+          "role": "Web Developer",
+          "duration": "2018 - 2020"
+        }
+      ],
+      "skills": ["React", "Node.js", "PostgreSQL", "AWS", "Docker", "TypeScript"],
+      "softSkills": ["Teamwork", "Adaptability", "Attention to Detail", "Continuous Learning"],
+      "hobbies": ["Gaming", "Open source contributions", "Hiking"],
+      "connections": 280
+    },
+    {
+      "id": 3,
+      "name": "Mariana Costa",
+      "title": "UX/UI Designer",
+      "area": "Design",
+      "city": "Belo Horizonte",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Creative designer focused on creating beautiful and intuitive user experiences that delight customers.",
+      "education": [
+        {
+          "school": "UFMG",
+          "degree": "Bachelor's in Design",
+          "year": 2020
+        }
+      ],
+      "experience": [
+        {
+          "company": "DesignHub",
+          "role": "Senior UX/UI Designer",
+          "duration": "2021 - Present"
+        },
+        {
+          "company": "Creative Studio",
+          "role": "UI Designer",
+          "duration": "2020 - 2021"
+        }
+      ],
+      "skills": ["Figma", "User Research", "Prototyping", "Wireframing", "Design Systems"],
+      "softSkills": ["Creativity", "Communication", "Empathy", "Collaboration"],
+      "hobbies": ["Illustration", "Pottery", "Traveling"],
+      "connections": 420
+    },
+    {
+      "id": 4,
+      "name": "João Santos",
+      "title": "Data Scientist",
+      "area": "Data",
+      "city": "Curitiba",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Data-driven professional leveraging machine learning and analytics to drive business insights and innovation.",
+      "education": [
+        {
+          "school": "UFPR",
+          "degree": "Master's in Data Science",
+          "year": 2021
+        }
+      ],
+      "experience": [
+        {
+          "company": "AnalyticsCore",
+          "role": "Senior Data Scientist",
+          "duration": "2021 - Present"
+        },
+        {
+          "company": "DataStartup",
+          "role": "Data Scientist",
+          "duration": "2019 - 2021"
+        }
+      ],
+      "skills": ["Python", "Machine Learning", "SQL", "Tableau", "Statistical Analysis"],
+      "softSkills": ["Problem Solving", "Critical Thinking", "Communication", "Persistence"],
+      "hobbies": ["Chess", "Reading", "Podcasts"],
+      "connections": 310
+    },
+    {
+      "id": 5,
+      "name": "Patricia Oliveira",
+      "title": "Marketing Manager",
+      "area": "Marketing",
+      "city": "Salvador",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Strategic marketing leader with expertise in digital campaigns, brand management, and market analysis.",
+      "education": [
+        {
+          "school": "UFBA",
+          "degree": "Bachelor's in Marketing",
+          "year": 2017
+        }
+      ],
+      "experience": [
+        {
+          "company": "BrandCo",
+          "role": "Marketing Manager",
+          "duration": "2019 - Present"
+        },
+        {
+          "company": "Digital Agency",
+          "role": "Digital Marketing Specialist",
+          "duration": "2017 - 2019"
+        }
+      ],
+      "skills": ["Digital Marketing", "SEO", "Content Strategy", "Analytics", "Social Media"],
+      "softSkills": ["Creativity", "Strategic Thinking", "Leadership", "Negotiation"],
+      "hobbies": ["Content writing", "Yoga", "Travel blogging"],
+      "connections": 380
+    },
+    {
+      "id": 6,
+      "name": "Roberto Lima",
+      "title": "DevOps Engineer",
+      "area": "Tech",
+      "city": "Brasília",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Infrastructure expert passionate about automation, CI/CD pipelines, and building scalable systems.",
+      "education": [
+        {
+          "school": "UnB",
+          "degree": "Bachelor's in Computer Science",
+          "year": 2018
+        }
+      ],
+      "experience": [
+        {
+          "company": "CloudOps Inc",
+          "role": "Senior DevOps Engineer",
+          "duration": "2020 - Present"
+        },
+        {
+          "company": "TechServices",
+          "role": "System Administrator",
+          "duration": "2018 - 2020"
+        }
+      ],
+      "skills": ["Kubernetes", "Docker", "AWS", "Terraform", "Jenkins", "Linux"],
+      "softSkills": ["Problem Solving", "Attention to Detail", "Teamwork", "Reliability"],
+      "hobbies": ["Gaming", "Astronomy", "DIY projects"],
+      "connections": 290
+    },
+    {
+      "id": 7,
+      "name": "Fernanda Rocha",
+      "title": "HR Manager",
+      "area": "Management",
+      "city": "Porto Alegre",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "People-focused HR manager committed to building inclusive workplaces and developing talent.",
+      "education": [
+        {
+          "school": "UFRGS",
+          "degree": "Bachelor's in Human Resources",
+          "year": 2016
+        }
+      ],
+      "experience": [
+        {
+          "company": "PeopleCare",
+          "role": "HR Manager",
+          "duration": "2019 - Present"
+        },
+        {
+          "company": "Corporate HR",
+          "role": "HR Specialist",
+          "duration": "2016 - 2019"
+        }
+      ],
+      "skills": ["Recruitment", "Employee Development", "Compensation", "Conflict Resolution", "Training"],
+      "softSkills": ["Empathy", "Communication", "Leadership", "Mediation"],
+      "hobbies": ["Volunteering", "Dancing", "Reading"],
+      "connections": 265
+    },
+    {
+      "id": 8,
+      "name": "Lucas Pereira",
+      "title": "Backend Engineer",
+      "area": "Tech",
+      "city": "Recife",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Passionate backend developer focused on building robust, scalable APIs and microservices.",
+      "education": [
+        {
+          "school": "UFPE",
+          "degree": "Bachelor's in Computer Engineering",
+          "year": 2019
+        }
+      ],
+      "experience": [
+        {
+          "company": "APIHub",
+          "role": "Senior Backend Engineer",
+          "duration": "2021 - Present"
+        },
+        {
+          "company": "WebServices Ltd",
+          "role": "Backend Developer",
+          "duration": "2019 - 2021"
+        }
+      ],
+      "skills": ["Java", "Spring Boot", "MongoDB", "GraphQL", "Microservices", "REST APIs"],
+      "softSkills": ["Code Quality Focus", "Collaboration", "Problem Solving", "Documentation"],
+      "hobbies": ["Contributing to open source", "Tech blogging", "Running"],
+      "connections": 315
+    },
+    {
+      "id": 9,
+      "name": "Sophia Martinez",
+      "title": "Product Designer",
+      "area": "Design",
+      "city": "Fortaleza",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "End-to-end product designer passionate about solving user problems through thoughtful design.",
+      "education": [
+        {
+          "school": "UFC",
+          "degree": "Bachelor's in Industrial Design",
+          "year": 2020
+        }
+      ],
+      "experience": [
+        {
+          "company": "ProductWorks",
+          "role": "Product Designer",
+          "duration": "2020 - Present"
+        }
+      ],
+      "skills": ["UX Design", "Product Thinking", "Prototyping", "Design Sprints", "User Testing"],
+      "softSkills": ["Collaboration", "Empathy", "Creativity", "Adaptability"],
+      "hobbies": ["Photography", "Traveling", "Sketching"],
+      "connections": 295
+    },
+    {
+      "id": 10,
+      "name": "Miguel Santos",
+      "title": "Frontend Developer",
+      "area": "Tech",
+      "city": "Manaus",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Frontend specialist creating interactive, performant, and accessible web experiences.",
+      "education": [
+        {
+          "school": "UFAM",
+          "degree": "Bachelor's in Computer Science",
+          "year": 2018
+        }
+      ],
+      "experience": [
+        {
+          "company": "WebUI Pro",
+          "role": "Senior Frontend Developer",
+          "duration": "2020 - Present"
+        },
+        {
+          "company": "Digital Studio",
+          "role": "Frontend Developer",
+          "duration": "2018 - 2020"
+        }
+      ],
+      "skills": ["React", "Vue.js", "TypeScript", "CSS", "Performance Optimization", "Accessibility"],
+      "softSkills": ["Attention to Detail", "User Focus", "Creativity", "Communication"],
+      "hobbies": ["Gaming", "Streaming", "Reading manga"],
+      "connections": 340
+    },
+    {
+      "id": 11,
+      "name": "Isabella Gomes",
+      "title": "Finance Manager",
+      "area": "Finance",
+      "city": "Campinas",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Finance professional with expertise in strategic planning, budgeting, and financial analysis.",
+      "education": [
+        {
+          "school": "Unicamp",
+          "degree": "Master's in Finance",
+          "year": 2019
+        }
+      ],
+      "experience": [
+        {
+          "company": "FinanceCore",
+          "role": "Finance Manager",
+          "duration": "2019 - Present"
+        },
+        {
+          "company": "Corporate Finance",
+          "role": "Finance Analyst",
+          "duration": "2017 - 2019"
+        }
+      ],
+      "skills": ["Financial Analysis", "Budgeting", "Forecasting", "Excel", "SAP"],
+      "softSkills": ["Analytical", "Strategic Thinking", "Attention to Detail", "Communication"],
+      "hobbies": ["Investment research", "Hiking", "Photography"],
+      "connections": 275
+    },
+    {
+      "id": 12,
+      "name": "Anderson Silva",
+      "title": "QA Engineer",
+      "area": "Tech",
+      "city": "Goiânia",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Quality assurance specialist committed to ensuring software excellence through comprehensive testing.",
+      "education": [
+        {
+          "school": "UFG",
+          "degree": "Bachelor's in Information Systems",
+          "year": 2017
+        }
+      ],
+      "experience": [
+        {
+          "company": "QualityFirst",
+          "role": "Senior QA Engineer",
+          "duration": "2019 - Present"
+        },
+        {
+          "company": "Software Testing Co",
+          "role": "QA Specialist",
+          "duration": "2017 - 2019"
+        }
+      ],
+      "skills": ["Test Automation", "Selenium", "Python", "Test Planning", "Bug Tracking"],
+      "softSkills": ["Attention to Detail", "Persistence", "Communication", "Problem Solving"],
+      "hobbies": ["Video games", "Board games", "Cooking"],
+      "connections": 245
+    },
+    {
+      "id": 13,
+      "name": "Camila Torres",
+      "title": "Business Analyst",
+      "area": "Business",
+      "city": "Salvador",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Strategic business analyst focused on optimizing processes and driving organizational growth.",
+      "education": [
+        {
+          "school": "UFBA",
+          "degree": "Bachelor's in Business Administration",
+          "year": 2018
+        }
+      ],
+      "experience": [
+        {
+          "company": "BusinessGrowth",
+          "role": "Senior Business Analyst",
+          "duration": "2020 - Present"
+        },
+        {
+          "company": "Consulting Group",
+          "role": "Business Analyst",
+          "duration": "2018 - 2020"
+        }
+      ],
+      "skills": ["Process Optimization", "Data Analysis", "Business Modeling", "Requirements Gathering"],
+      "softSkills": ["Analytical", "Communication", "Problem Solving", "Strategic Thinking"],
+      "hobbies": ["Business reading", "Networking", "Yoga"],
+      "connections": 320
+    },
+    {
+      "id": 14,
+      "name": "Rafael Barbosa",
+      "title": "Mobile Developer",
+      "area": "Tech",
+      "city": "Maceió",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Mobile development expert creating innovative iOS and Android applications.",
+      "education": [
+        {
+          "school": "UFAL",
+          "degree": "Bachelor's in Computer Science",
+          "year": 2019
+        }
+      ],
+      "experience": [
+        {
+          "company": "MobileHub",
+          "role": "Senior Mobile Developer",
+          "duration": "2021 - Present"
+        },
+        {
+          "company": "App Studio",
+          "role": "Mobile Developer",
+          "duration": "2019 - 2021"
+        }
+      ],
+      "skills": ["React Native", "Swift", "Kotlin", "Firebase", "App Store Optimization"],
+      "softSkills": ["Creativity", "Adaptability", "Collaboration", "Continuous Learning"],
+      "hobbies": ["App development", "Traveling", "Photography"],
+      "connections": 305
+    },
+    {
+      "id": 15,
+      "name": "Leticia Santos",
+      "title": "Content Strategist",
+      "area": "Marketing",
+      "city": "Florianópolis",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Content strategist specializing in creating engaging narratives and brand storytelling.",
+      "education": [
+        {
+          "school": "UFSC",
+          "degree": "Bachelor's in Journalism",
+          "year": 2016
+        }
+      ],
+      "experience": [
+        {
+          "company": "ContentPro",
+          "role": "Senior Content Strategist",
+          "duration": "2018 - Present"
+        },
+        {
+          "company": "Digital Agency",
+          "role": "Content Writer",
+          "duration": "2016 - 2018"
+        }
+      ],
+      "skills": ["Content Strategy", "Copywriting", "SEO", "Social Media", "Video Production"],
+      "softSkills": ["Creativity", "Research", "Storytelling", "Communication"],
+      "hobbies": ["Writing", "Podcasting", "Reading"],
+      "connections": 285
+    },
+    {
+      "id": 16,
+      "name": "Thiago Oliveira",
+      "title": "Security Engineer",
+      "area": "Tech",
+      "city": "Belém",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Cybersecurity specialist protecting organizations from evolving digital threats.",
+      "education": [
+        {
+          "school": "UFPA",
+          "degree": "Bachelor's in Information Security",
+          "year": 2020
+        }
+      ],
+      "experience": [
+        {
+          "company": "SecureNet",
+          "role": "Security Engineer",
+          "duration": "2020 - Present"
+        }
+      ],
+      "skills": ["Penetration Testing", "Network Security", "Cryptography", "OWASP", "Incident Response"],
+      "softSkills": ["Attention to Detail", "Analytical", "Vigilance", "Documentation"],
+      "hobbies": ["Cybersecurity research", "CTF competitions", "Blogging"],
+      "connections": 215
+    },
+    {
+      "id": 17,
+      "name": "Gabriela Ferreira",
+      "title": "Project Manager",
+      "area": "Management",
+      "city": "João Pessoa",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Experienced project manager delivering complex projects on time and within budget.",
+      "education": [
+        {
+          "school": "UFPB",
+          "degree": "Bachelor's in Project Management",
+          "year": 2015
+        }
+      ],
+      "experience": [
+        {
+          "company": "ProjectMasters",
+          "role": "Senior Project Manager",
+          "duration": "2017 - Present"
+        },
+        {
+          "company": "Tech Projects",
+          "role": "Project Manager",
+          "duration": "2015 - 2017"
+        }
+      ],
+      "skills": ["Agile", "Scrum", "Risk Management", "Stakeholder Management", "Budget Planning"],
+      "softSkills": ["Leadership", "Communication", "Problem Solving", "Organization"],
+      "hobbies": ["Project management articles", "Mentoring", "Running"],
+      "connections": 355
+    },
+    {
+      "id": 18,
+      "name": "Felipe Costa",
+      "title": "AI/ML Engineer",
+      "area": "Tech",
+      "city": "Teresina",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "AI specialist developing intelligent systems and machine learning solutions.",
+      "education": [
+        {
+          "school": "UFPI",
+          "degree": "Master's in Artificial Intelligence",
+          "year": 2021
+        }
+      ],
+      "experience": [
+        {
+          "company": "AILabs",
+          "role": "AI/ML Engineer",
+          "duration": "2021 - Present"
+        },
+        {
+          "company": "Tech Research",
+          "role": "Junior ML Engineer",
+          "duration": "2020 - 2021"
+        }
+      ],
+      "skills": ["TensorFlow", "PyTorch", "Python", "Deep Learning", "Computer Vision"],
+      "softSkills": ["Research", "Analytical", "Problem Solving", "Communication"],
+      "hobbies": ["AI research", "Kaggle competitions", "Reading papers"],
+      "connections": 235
+    },
+    {
+      "id": 19,
+      "name": "Juliana Ribeiro",
+      "title": "UI Engineer",
+      "area": "Design",
+      "city": "Natal",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "UI specialist creating beautiful, functional interfaces with code.",
+      "education": [
+        {
+          "school": "UFRN",
+          "degree": "Bachelor's in Design",
+          "year": 2019
+        }
+      ],
+      "experience": [
+        {
+          "company": "UIDesignLab",
+          "role": "UI Engineer",
+          "duration": "2019 - Present"
+        }
+      ],
+      "skills": ["HTML/CSS", "JavaScript", "React", "Design Systems", "Component Libraries"],
+      "softSkills": ["Attention to Detail", "Collaboration", "Creativity", "Problem Solving"],
+      "hobbies": ["UI design", "Animation", "Digital art"],
+      "connections": 310
+    },
+    {
+      "id": 20,
+      "name": "Victor Mendes",
+      "title": "Sales Manager",
+      "area": "Sales",
+      "city": "Aracaju",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Sales leader building high-performing teams and driving revenue growth.",
+      "education": [
+        {
+          "school": "UFS",
+          "degree": "Bachelor's in Administration",
+          "year": 2014
+        }
+      ],
+      "experience": [
+        {
+          "company": "SalesForce",
+          "role": "Sales Manager",
+          "duration": "2016 - Present"
+        },
+        {
+          "company": "Tech Solutions",
+          "role": "Sales Representative",
+          "duration": "2014 - 2016"
+        }
+      ],
+      "skills": ["Sales Strategy", "Team Leadership", "CRM", "Negotiation", "Forecasting"],
+      "softSkills": ["Leadership", "Communication", "Persuasion", "Relationship Building"],
+      "hobbies": ["Sports", "Networking", "Reading"],
+      "connections": 425
+    },
+    {
+      "id": 21,
+      "name": "Beatriz Alves",
+      "title": "UX Researcher",
+      "area": "Design",
+      "city": "Macapá",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "User research specialist uncovering insights that drive better design decisions.",
+      "education": [
+        {
+          "school": "UNIFAP",
+          "degree": "Bachelor's in Psychology",
+          "year": 2018
+        }
+      ],
+      "experience": [
+        {
+          "company": "ResearchHub",
+          "role": "UX Researcher",
+          "duration": "2019 - Present"
+        },
+        {
+          "company": "Design Studio",
+          "role": "User Researcher",
+          "duration": "2018 - 2019"
+        }
+      ],
+      "skills": ["User Interviews", "Usability Testing", "Data Analysis", "Personas", "Journey Mapping"],
+      "softSkills": ["Empathy", "Analytical", "Communication", "Curiosity"],
+      "hobbies": ["User research", "Psychology reading", "Traveling"],
+      "connections": 255
+    },
+    {
+      "id": 22,
+      "name": "Gustavo Oliveira",
+      "title": "Solutions Architect",
+      "area": "Tech",
+      "city": "Palmas",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Solutions architect designing scalable, robust enterprise systems.",
+      "education": [
+        {
+          "school": "UFT",
+          "degree": "Bachelor's in Computer Science",
+          "year": 2015
+        }
+      ],
+      "experience": [
+        {
+          "company": "EnterpriseTech",
+          "role": "Solutions Architect",
+          "duration": "2018 - Present"
+        },
+        {
+          "company": "Tech Consulting",
+          "role": "Senior Developer",
+          "duration": "2015 - 2018"
+        }
+      ],
+      "skills": ["System Design", "Architecture", "Cloud Solutions", "Scalability", "Enterprise Software"],
+      "softSkills": ["Strategic Thinking", "Communication", "Problem Solving", "Leadership"],
+      "hobbies": ["Tech talks", "System design", "Mentoring"],
+      "connections": 365
+    },
+    {
+      "id": 23,
+      "name": "Marina Silva",
+      "title": "Graphic Designer",
+      "area": "Design",
+      "city": "Rio Branco",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Graphic designer creating visually stunning brand identities and marketing materials.",
+      "education": [
+        {
+          "school": "UFAC",
+          "degree": "Bachelor's in Graphic Design",
+          "year": 2019
+        }
+      ],
+      "experience": [
+        {
+          "company": "BrandStudio",
+          "role": "Graphic Designer",
+          "duration": "2019 - Present"
+        }
+      ],
+      "skills": ["Adobe Creative Suite", "Branding", "Illustration", "Typography", "Print Design"],
+      "softSkills": ["Creativity", "Attention to Detail", "Communication", "Collaboration"],
+      "hobbies": ["Illustration", "Photography", "Travel"],
+      "connections": 190
+    },
+    {
+      "id": 24,
+      "name": "Paulo Ferreira",
+      "title": "Systems Administrator",
+      "area": "Tech",
+      "city": "Boa Vista",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Systems expert managing complex IT infrastructure and ensuring business continuity.",
+      "education": [
+        {
+          "school": "UFRR",
+          "degree": "Bachelor's in IT",
+          "year": 2016
+        }
+      ],
+      "experience": [
+        {
+          "company": "SysManage",
+          "role": "Systems Administrator",
+          "duration": "2017 - Present"
+        },
+        {
+          "company": "IT Support",
+          "role": "IT Specialist",
+          "duration": "2016 - 2017"
+        }
+      ],
+      "skills": ["Windows Server", "Linux", "Network Management", "Backup Solutions", "Virtualization"],
+      "softSkills": ["Problem Solving", "Reliability", "Documentation", "Support Focus"],
+      "hobbies": ["System optimization", "Linux", "Tech blogs"],
+      "connections": 220
+    },
+    {
+      "id": 25,
+      "name": "Renata Costa",
+      "title": "Community Manager",
+      "area": "Marketing",
+      "city": "Porto Velho",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Community specialist building engaged audiences and fostering meaningful connections.",
+      "education": [
+        {
+          "school": "UNIR",
+          "degree": "Bachelor's in Social Communication",
+          "year": 2017
+        }
+      ],
+      "experience": [
+        {
+          "company": "CommunityHub",
+          "role": "Community Manager",
+          "duration": "2018 - Present"
+        },
+        {
+          "company": "Social Agency",
+          "role": "Social Media Specialist",
+          "duration": "2017 - 2018"
+        }
+      ],
+      "skills": ["Community Building", "Social Media", "Engagement", "Content Moderation", "Analytics"],
+      "softSkills": ["Communication", "Empathy", "Creativity", "Patience"],
+      "hobbies": ["Social media", "Community events", "Blogging"],
+      "connections": 315
+    },
+    {
+      "id": 26,
+      "name": "Marcelo Dias",
+      "title": "Blockchain Developer",
+      "area": "Tech",
+      "city": "Rorainópolis",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Blockchain specialist developing distributed applications and smart contracts.",
+      "education": [
+        {
+          "school": "Online University",
+          "degree": "Blockchain Certification",
+          "year": 2020
+        }
+      ],
+      "experience": [
+        {
+          "company": "BlockchainCorp",
+          "role": "Blockchain Developer",
+          "duration": "2020 - Present"
+        }
+      ],
+      "skills": ["Solidity", "Ethereum", "Smart Contracts", "Web3.js", "Distributed Systems"],
+      "softSkills": ["Innovation", "Problem Solving", "Research", "Collaboration"],
+      "hobbies": ["Blockchain research", "Crypto", "Gaming"],
+      "connections": 180
+    },
+    {
+      "id": 27,
+      "name": "Camila Rocha",
+      "title": "Social Media Manager",
+      "area": "Marketing",
+      "city": "Itabira",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Social media strategist crafting viral campaigns and building brand presence.",
+      "education": [
+        {
+          "school": "UFOP",
+          "degree": "Bachelor's in Marketing",
+          "year": 2019
+        }
+      ],
+      "experience": [
+        {
+          "company": "SocialGrowth",
+          "role": "Social Media Manager",
+          "duration": "2019 - Present"
+        }
+      ],
+      "skills": ["Social Media Strategy", "Content Creation", "Analytics", "Campaign Management", "Influencer Relations"],
+      "softSkills": ["Creativity", "Adaptability", "Communication", "Trend Awareness"],
+      "hobbies": ["Social media trends", "Photography", "Vlogging"],
+      "connections": 340
+    },
+    {
+      "id": 28,
+      "name": "Ricardo Mendes",
+      "title": "Compliance Officer",
+      "area": "Legal",
+      "city": "Uberlândia",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Compliance expert ensuring organizational adherence to regulations and standards.",
+      "education": [
+        {
+          "school": "UFU",
+          "degree": "Bachelor's in Law",
+          "year": 2014
+        }
+      ],
+      "experience": [
+        {
+          "company": "ComplianceFirst",
+          "role": "Compliance Officer",
+          "duration": "2016 - Present"
+        },
+        {
+          "company": "Legal Services",
+          "role": "Legal Analyst",
+          "duration": "2014 - 2016"
+        }
+      ],
+      "skills": ["Regulatory Compliance", "Auditing", "Risk Assessment", "Policy Development", "Documentation"],
+      "softSkills": ["Attention to Detail", "Analytical", "Integrity", "Communication"],
+      "hobbies": ["Legal research", "Reading", "Compliance news"],
+      "connections": 195
+    },
+    {
+      "id": 29,
+      "name": "Sophia Pereira",
+      "title": "Growth Manager",
+      "area": "Business",
+      "city": "Montes Claros",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Growth specialist using data-driven strategies to scale businesses exponentially.",
+      "education": [
+        {
+          "school": "UNIMONTES",
+          "degree": "Bachelor's in Business Administration",
+          "year": 2018
+        }
+      ],
+      "experience": [
+        {
+          "company": "GrowthLab",
+          "role": "Growth Manager",
+          "duration": "2019 - Present"
+        },
+        {
+          "company": "Startup Hub",
+          "role": "Growth Coordinator",
+          "duration": "2018 - 2019"
+        }
+      ],
+      "skills": ["Growth Strategy", "Analytics", "Experiment Design", "Retention", "User Acquisition"],
+      "softSkills": ["Analytical", "Creativity", "Persistence", "Communication"],
+      "hobbies": ["Growth hacking", "Analytics", "Startups"],
+      "connections": 275
+    },
+    {
+      "id": 30,
+      "name": "Ethan Cooper",
+      "title": "Technical Writer",
+      "area": "Tech",
+      "city": "Ponta Grossa",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Technical writer creating clear documentation and guides for complex systems.",
+      "education": [
+        {
+          "school": "UEPG",
+          "degree": "Bachelor's in Communication",
+          "year": 2017
+        }
+      ],
+      "experience": [
+        {
+          "company": "TechDocs",
+          "role": "Technical Writer",
+          "duration": "2018 - Present"
+        },
+        {
+          "company": "Software Company",
+          "role": "Documentation Specialist",
+          "duration": "2017 - 2018"
+        }
+      ],
+      "skills": ["Technical Documentation", "API Docs", "User Guides", "Markdown", "DITA"],
+      "softSkills": ["Clarity", "Research", "Organization", "Attention to Detail"],
+      "hobbies": ["Writing", "Reading", "Documentation"],
+      "connections": 165
+    },
+    {
+      "id": 31,
+      "name": "Alessandra Silva",
+      "title": "Database Administrator",
+      "area": "Tech",
+      "city": "Londrina",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Database specialist optimizing performance and ensuring data integrity.",
+      "education": [
+        {
+          "school": "UEL",
+          "degree": "Bachelor's in Computer Science",
+          "year": 2016
+        }
+      ],
+      "experience": [
+        {
+          "company": "DBOptimize",
+          "role": "Senior Database Administrator",
+          "duration": "2018 - Present"
+        },
+        {
+          "company": "Data Services",
+          "role": "Database Administrator",
+          "duration": "2016 - 2018"
+        }
+      ],
+      "skills": ["PostgreSQL", "Oracle", "MongoDB", "Performance Tuning", "Backup & Recovery"],
+      "softSkills": ["Problem Solving", "Reliability", "Documentation", "Proactive"],
+      "hobbies": ["Database optimization", "SQL", "Reading"],
+      "connections": 210
+    },
+    {
+      "id": 32,
+      "name": "Diego Lima",
+      "title": "IT Manager",
+      "area": "Management",
+      "city": "Maringá",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "IT leader managing teams and overseeing technology strategy.",
+      "education": [
+        {
+          "school": "UEM",
+          "degree": "Bachelor's in Information Technology",
+          "year": 2013
+        }
+      ],
+      "experience": [
+        {
+          "company": "ITLeadership",
+          "role": "IT Manager",
+          "duration": "2015 - Present"
+        },
+        {
+          "company": "Tech Company",
+          "role": "IT Supervisor",
+          "duration": "2013 - 2015"
+        }
+      ],
+      "skills": ["IT Strategy", "Team Management", "Infrastructure", "Budget Planning", "Vendor Management"],
+      "softSkills": ["Leadership", "Strategic Thinking", "Communication", "Problem Solving"],
+      "hobbies": ["IT management", "Mentoring", "Reading"],
+      "connections": 295
+    },
+    {
+      "id": 33,
+      "name": "Natalia Santos",
+      "title": "Product Analyst",
+      "area": "Data",
+      "city": "Apucarana",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Product analyst leveraging data to drive product decisions and improvements.",
+      "education": [
+        {
+          "school": "FAP",
+          "degree": "Bachelor's in Statistics",
+          "year": 2020
+        }
+      ],
+      "experience": [
+        {
+          "company": "ProductAnalytics",
+          "role": "Product Analyst",
+          "duration": "2020 - Present"
+        }
+      ],
+      "skills": ["SQL", "Tableau", "Google Analytics", "A/B Testing", "Cohort Analysis"],
+      "softSkills": ["Analytical", "Communication", "Problem Solving", "Curiosity"],
+      "hobbies": ["Data analysis", "Analytics tools", "Reading"],
+      "connections": 235
+    },
+    {
+      "id": 34,
+      "name": "Bruno Ferreira",
+      "title": "Network Engineer",
+      "area": "Tech",
+      "city": "Cascavel",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Network specialist designing and maintaining robust communication infrastructure.",
+      "education": [
+        {
+          "school": "UNIOESTE",
+          "degree": "Bachelor's in Computer Science",
+          "year": 2017
+        }
+      ],
+      "experience": [
+        {
+          "company": "NetworkPro",
+          "role": "Senior Network Engineer",
+          "duration": "2019 - Present"
+        },
+        {
+          "company": "IT Infrastructure",
+          "role": "Network Administrator",
+          "duration": "2017 - 2019"
+        }
+      ],
+      "skills": ["Cisco", "Network Security", "Routing", "Switching", "VPN"],
+      "softSkills": ["Problem Solving", "Attention to Detail", "Reliability", "Documentation"],
+      "hobbies": ["Networking", "Certifications", "Tech blogs"],
+      "connections": 185
+    },
+    {
+      "id": 35,
+      "name": "Veronica Costa",
+      "title": "Customer Success Manager",
+      "area": "Sales",
+      "city": "Toledo",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Customer success specialist ensuring clients achieve their goals and maximize value.",
+      "education": [
+        {
+          "school": "UTFPR",
+          "degree": "Bachelor's in Business Administration",
+          "year": 2018
+        }
+      ],
+      "experience": [
+        {
+          "company": "SuccessHub",
+          "role": "Customer Success Manager",
+          "duration": "2019 - Present"
+        },
+        {
+          "company": "Customer Service",
+          "role": "Account Manager",
+          "duration": "2018 - 2019"
+        }
+      ],
+      "skills": ["Account Management", "Customer Retention", "Communication", "Problem Solving", "Reporting"],
+      "softSkills": ["Empathy", "Communication", "Proactive", "Patience"],
+      "hobbies": ["Customer success", "Networking", "Reading"],
+      "connections": 265
+    },
+    {
+      "id": 36,
+      "name": "Leonardo Oliveira",
+      "title": "Scrum Master",
+      "area": "Management",
+      "city": "Foz do Iguaçu",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Agile coach facilitating high-performing teams through Scrum and Agile practices.",
+      "education": [
+        {
+          "school": "UNILA",
+          "degree": "Bachelor's in Administration",
+          "year": 2015
+        }
+      ],
+      "experience": [
+        {
+          "company": "AgileLab",
+          "role": "Scrum Master",
+          "duration": "2017 - Present"
+        },
+        {
+          "company": "Software Development",
+          "role": "Project Coordinator",
+          "duration": "2015 - 2017"
+        }
+      ],
+      "skills": ["Scrum", "Agile", "Team Facilitation", "Conflict Resolution", "Process Improvement"],
+      "softSkills": ["Leadership", "Communication", "Mediation", "Coaching"],
+      "hobbies": ["Agile practices", "Mentoring", "Reading"],
+      "connections": 310
+    },
+    {
+      "id": 37,
+      "name": "Fabiana Gomes",
+      "title": "Brand Manager",
+      "area": "Marketing",
+      "city": "Dourados",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Brand manager developing and protecting brand identity and equity.",
+      "education": [
+        {
+          "school": "UFGD",
+          "degree": "Bachelor's in Marketing",
+          "year": 2016
+        }
+      ],
+      "experience": [
+        {
+          "company": "BrandCorp",
+          "role": "Brand Manager",
+          "duration": "2017 - Present"
+        },
+        {
+          "company": "Marketing Agency",
+          "role": "Marketing Coordinator",
+          "duration": "2016 - 2017"
+        }
+      ],
+      "skills": ["Brand Strategy", "Brand Identity", "Market Research", "Positioning", "Communication"],
+      "softSkills": ["Strategic Thinking", "Creativity", "Communication", "Attention to Detail"],
+      "hobbies": ["Brand analysis", "Marketing", "Reading"],
+      "connections": 270
+    },
+    {
+      "id": 38,
+      "name": "Claudio Santos",
+      "title": "Cloud Architect",
+      "area": "Tech",
+      "city": "Ponta Porã",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Cloud specialist designing scalable, resilient cloud-native solutions.",
+      "education": [
+        {
+          "school": "UFMS",
+          "degree": "Master's in Computer Science",
+          "year": 2019
+        }
+      ],
+      "experience": [
+        {
+          "company": "CloudSolutions",
+          "role": "Cloud Architect",
+          "duration": "2019 - Present"
+        },
+        {
+          "company": "Tech Company",
+          "role": "Senior Developer",
+          "duration": "2016 - 2019"
+        }
+      ],
+      "skills": ["AWS", "Azure", "Kubernetes", "Cloud Architecture", "Microservices"],
+      "softSkills": ["Strategic Thinking", "Problem Solving", "Communication", "Innovation"],
+      "hobbies": ["Cloud computing", "Architecture", "Reading"],
+      "connections": 320
+    },
+    {
+      "id": 39,
+      "name": "Rita Barbosa",
+      "title": "Training Specialist",
+      "area": "Management",
+      "city": "Campo Grande",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Training specialist developing and delivering programs for organizational development.",
+      "education": [
+        {
+          "school": "UFMS",
+          "degree": "Bachelor's in Education",
+          "year": 2014
+        }
+      ],
+      "experience": [
+        {
+          "company": "TrainingHub",
+          "role": "Training Specialist",
+          "duration": "2016 - Present"
+        },
+        {
+          "company": "Corporate Training",
+          "role": "Training Coordinator",
+          "duration": "2014 - 2016"
+        }
+      ],
+      "skills": ["Training Development", "Teaching", "Curriculum Design", "Instructional Design", "Presentation"],
+      "softSkills": ["Communication", "Patience", "Creativity", "Empathy"],
+      "hobbies": ["Education", "Teaching", "Reading"],
+      "connections": 180
+    },
+    {
+      "id": 40,
+      "name": "Marcos Silva",
+      "title": "Operations Manager",
+      "area": "Management",
+      "city": "Três Lagoas",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Operations leader optimizing processes and driving efficiency across organizations.",
+      "education": [
+        {
+          "school": "UEMS",
+          "degree": "Bachelor's in Administration",
+          "year": 2013
+        }
+      ],
+      "experience": [
+        {
+          "company": "OperationsFirst",
+          "role": "Operations Manager",
+          "duration": "2015 - Present"
+        },
+        {
+          "company": "Manufacturing",
+          "role": "Production Supervisor",
+          "duration": "2013 - 2015"
+        }
+      ],
+      "skills": ["Process Optimization", "Supply Chain", "Cost Control", "Quality Management", "Leadership"],
+      "softSkills": ["Strategic Thinking", "Problem Solving", "Leadership", "Attention to Detail"],
+      "hobbies": ["Operations", "Lean management", "Reading"],
+      "connections": 265
+    },
+    {
+      "id": 41,
+      "name": "Fernanda Gomes",
+      "title": "SEO Specialist",
+      "area": "Marketing",
+      "city": "Corumbá",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "SEO expert optimizing websites for search visibility and organic traffic.",
+      "education": [
+        {
+          "school": "UFMS",
+          "degree": "Bachelor's in Marketing",
+          "year": 2017
+        }
+      ],
+      "experience": [
+        {
+          "company": "SEOPro",
+          "role": "SEO Specialist",
+          "duration": "2018 - Present"
+        },
+        {
+          "company": "Digital Marketing",
+          "role": "Marketing Assistant",
+          "duration": "2017 - 2018"
+        }
+      ],
+      "skills": ["SEO", "Keyword Research", "Link Building", "Technical SEO", "Analytics"],
+      "softSkills": ["Analytical", "Attention to Detail", "Research", "Problem Solving"],
+      "hobbies": ["SEO trends", "Content optimization", "Reading"],
+      "connections": 210
+    },
+    {
+      "id": 42,
+      "name": "Antonio Santos",
+      "title": "UX/UI Developer",
+      "area": "Tech",
+      "city": "Aquidauana",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "UX/UI developer creating interactive, accessible digital experiences.",
+      "education": [
+        {
+          "school": "UFMS",
+          "degree": "Bachelor's in Computer Science",
+          "year": 2018
+        }
+      ],
+      "experience": [
+        {
+          "company": "UXDevelopment",
+          "role": "UX/UI Developer",
+          "duration": "2019 - Present"
+        },
+        {
+          "company": "Web Design",
+          "role": "Frontend Developer",
+          "duration": "2018 - 2019"
+        }
+      ],
+      "skills": ["React", "UI Design", "UX Implementation", "Accessibility", "Responsive Design"],
+      "softSkills": ["Creativity", "Attention to Detail", "Collaboration", "Problem Solving"],
+      "hobbies": ["UI design", "Animation", "Web development"],
+      "connections": 290
+    },
+    {
+      "id": 43,
+      "name": "Simone Costa",
+      "title": "Legal Counsel",
+      "area": "Legal",
+      "city": "Bonito",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Legal counsel providing strategic advice and ensuring legal compliance.",
+      "education": [
+        {
+          "school": "UFMS",
+          "degree": "Master's in Law",
+          "year": 2015
+        }
+      ],
+      "experience": [
+        {
+          "company": "Legal Associates",
+          "role": "Legal Counsel",
+          "duration": "2016 - Present"
+        },
+        {
+          "company": "Law Firm",
+          "role": "Attorney",
+          "duration": "2013 - 2016"
+        }
+      ],
+      "skills": ["Contract Law", "Corporate Law", "Compliance", "Legal Analysis", "Negotiation"],
+      "softSkills": ["Analytical", "Attention to Detail", "Communication", "Integrity"],
+      "hobbies": ["Legal research", "Reading", "Law"],
+      "connections": 145
+    },
+    {
+      "id": 44,
+      "name": "Roberto Costa",
+      "title": "E-commerce Manager",
+      "area": "Business",
+      "city": "Miranda",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "E-commerce specialist managing online sales strategy and customer experience.",
+      "education": [
+        {
+          "school": "UFMS",
+          "degree": "Bachelor's in Business Administration",
+          "year": 2016
+        }
+      ],
+      "experience": [
+        {
+          "company": "OnlineStore",
+          "role": "E-commerce Manager",
+          "duration": "2018 - Present"
+        },
+        {
+          "company": "Retail Company",
+          "role": "Sales Manager",
+          "duration": "2016 - 2018"
+        }
+      ],
+      "skills": ["E-commerce Platforms", "Sales Strategy", "Customer Experience", "Analytics", "Inventory Management"],
+      "softSkills": ["Strategic Thinking", "Problem Solving", "Communication", "Adaptability"],
+      "hobbies": ["E-commerce trends", "Online shopping", "Reading"],
+      "connections": 255
+    },
+    {
+      "id": 45,
+      "name": "Lucia Oliveira",
+      "title": "Interior Designer",
+      "area": "Design",
+      "city": "Jaraguari",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Creative interior designer transforming spaces into beautiful, functional environments.",
+      "education": [
+        {
+          "school": "UFMS",
+          "degree": "Bachelor's in Interior Design",
+          "year": 2017
+        }
+      ],
+      "experience": [
+        {
+          "company": "DesignStudio",
+          "role": "Interior Designer",
+          "duration": "2018 - Present"
+        },
+        {
+          "company": "Architectural Firm",
+          "role": "Designer Assistant",
+          "duration": "2017 - 2018"
+        }
+      ],
+      "skills": ["Space Planning", "Color Theory", "CAD", "Interior Styling", "Project Management"],
+      "softSkills": ["Creativity", "Attention to Detail", "Client Communication", "Problem Solving"],
+      "hobbies": ["Interior design", "Home styling", "Photography"],
+      "connections": 165
+    },
+    {
+      "id": 46,
+      "name": "Julio Silva",
+      "title": "Analytics Engineer",
+      "area": "Data",
+      "city": "Nova Andradina",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Analytics engineer building data pipelines and analytics infrastructure.",
+      "education": [
+        {
+          "school": "UFMS",
+          "degree": "Bachelor's in Computer Science",
+          "year": 2019
+        }
+      ],
+      "experience": [
+        {
+          "company": "DataInfra",
+          "role": "Analytics Engineer",
+          "duration": "2020 - Present"
+        },
+        {
+          "company": "Data Startup",
+          "role": "Junior Data Engineer",
+          "duration": "2019 - 2020"
+        }
+      ],
+      "skills": ["SQL", "Python", "ETL", "Data Warehousing", "dbt"],
+      "softSkills": ["Problem Solving", "Attention to Detail", "Collaboration", "Documentation"],
+      "hobbies": ["Data engineering", "ETL", "Reading"],
+      "connections": 195
+    },
+    {
+      "id": 47,
+      "name": "Carla Mendes",
+      "title": "Localization Manager",
+      "area": "Marketing",
+      "city": "Costa Rica",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Localization specialist ensuring products resonate across global markets.",
+      "education": [
+        {
+          "school": "UFMS",
+          "degree": "Bachelor's in Language Studies",
+          "year": 2015
+        }
+      ],
+      "experience": [
+        {
+          "company": "LocalizationHub",
+          "role": "Localization Manager",
+          "duration": "2017 - Present"
+        },
+        {
+          "company": "Translation Services",
+          "role": "Translator",
+          "duration": "2015 - 2017"
+        }
+      ],
+      "skills": ["Localization", "Translation", "Cultural Adaptation", "Project Management", "Quality Assurance"],
+      "softSkills": ["Attention to Detail", "Cultural Awareness", "Communication", "Organization"],
+      "hobbies": ["Languages", "Cultural studies", "Travel"],
+      "connections": 225
+    },
+    {
+      "id": 48,
+      "name": "Felipe Gomes",
+      "title": "Integration Developer",
+      "area": "Tech",
+      "city": "Sidrolandia",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Integration specialist connecting systems and enabling seamless data flow.",
+      "education": [
+        {
+          "school": "UFMS",
+          "degree": "Bachelor's in Information Systems",
+          "year": 2018
+        }
+      ],
+      "experience": [
+        {
+          "company": "IntegrationPro",
+          "role": "Integration Developer",
+          "duration": "2019 - Present"
+        },
+        {
+          "company": "Software Services",
+          "role": "Junior Developer",
+          "duration": "2018 - 2019"
+        }
+      ],
+      "skills": ["API Integration", "Webhooks", "Middleware", "Message Queues", "ETL"],
+      "softSkills": ["Problem Solving", "Attention to Detail", "Collaboration", "Communication"],
+      "hobbies": ["System integration", "APIs", "Reading"],
+      "connections": 175
+    },
+    {
+      "id": 49,
+      "name": "Adilson Ferreira",
+      "title": "Facilities Manager",
+      "area": "Management",
+      "city": "Ribas do Rio Pardo",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Facilities expert managing workplace infrastructure and office operations.",
+      "education": [
+        {
+          "school": "UFMS",
+          "degree": "Bachelor's in Administration",
+          "year": 2012
+        }
+      ],
+      "experience": [
+        {
+          "company": "FacilitiesHub",
+          "role": "Facilities Manager",
+          "duration": "2014 - Present"
+        },
+        {
+          "company": "Building Services",
+          "role": "Supervisor",
+          "duration": "2012 - 2014"
+        }
+      ],
+      "skills": ["Building Management", "Vendor Management", "Safety", "Maintenance Planning", "Cost Control"],
+      "softSkills": ["Problem Solving", "Attention to Detail", "Leadership", "Organization"],
+      "hobbies": ["Facilities management", "Sustainability", "Reading"],
+      "connections": 135
+    },
+    {
+      "id": 50,
+      "name": "Juliana Martins",
+      "title": "Influencer Manager",
+      "area": "Marketing",
+      "city": "Japorã",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Influencer specialist building partnerships and managing brand collaborations.",
+      "education": [
+        {
+          "school": "UFMS",
+          "degree": "Bachelor's in Marketing",
+          "year": 2018
+        }
+      ],
+      "experience": [
+        {
+          "company": "InfluencerHub",
+          "role": "Influencer Manager",
+          "duration": "2019 - Present"
+        },
+        {
+          "company": "Marketing Agency",
+          "role": "Social Media Coordinator",
+          "duration": "2018 - 2019"
+        }
+      ],
+      "skills": ["Influencer Relations", "Campaign Management", "Negotiation", "Analytics", "Content Strategy"],
+      "softSkills": ["Communication", "Relationship Building", "Negotiation", "Creativity"],
+      "hobbies": ["Social media", "Content creation", "Networking"],
+      "connections": 285
+    },
+    {
+      "id": 51,
+      "name": "Wagner Santos",
+      "title": "Logistics Coordinator",
+      "area": "Operations",
+      "city": "Itaquiraí",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Logistics specialist optimizing supply chains and ensuring timely delivery.",
+      "education": [
+        {
+          "school": "UFMS",
+          "degree": "Bachelor's in Logistics",
+          "year": 2015
+        }
+      ],
+      "experience": [
+        {
+          "company": "LogisticsHub",
+          "role": "Logistics Coordinator",
+          "duration": "2016 - Present"
+        },
+        {
+          "company": "Shipping Company",
+          "role": "Logistics Assistant",
+          "duration": "2015 - 2016"
+        }
+      ],
+      "skills": ["Supply Chain Management", "Inventory Control", "Route Optimization", "Vendor Management", "SAP"],
+      "softSkills": ["Problem Solving", "Organization", "Attention to Detail", "Teamwork"],
+      "hobbies": ["Logistics trends", "Supply chain", "Reading"],
+      "connections": 195
+    },
+    {
+      "id": 52,
+      "name": "Elisangela Oliveira",
+      "title": "Medical Writer",
+      "area": "Content",
+      "city": "Taquarussú",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Medical writer creating accurate, compelling healthcare and scientific content.",
+      "education": [
+        {
+          "school": "UFMS",
+          "degree": "Master's in Medical Science",
+          "year": 2017
+        }
+      ],
+      "experience": [
+        {
+          "company": "MedicalPublishing",
+          "role": "Medical Writer",
+          "duration": "2018 - Present"
+        },
+        {
+          "company": "Research Institute",
+          "role": "Research Coordinator",
+          "duration": "2017 - 2018"
+        }
+      ],
+      "skills": ["Medical Writing", "Scientific Research", "Clinical Documentation", "Regulatory Writing", "Publishing"],
+      "softSkills": ["Research", "Attention to Detail", "Communication", "Accuracy"],
+      "hobbies": ["Medical research", "Reading", "Writing"],
+      "connections": 155
+    },
+    {
+      "id": 53,
+      "name": "Casimiro Alves",
+      "title": "Retail Manager",
+      "area": "Management",
+      "city": "Figueirão",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Retail leader driving sales performance and customer satisfaction.",
+      "education": [
+        {
+          "school": "UFMS",
+          "degree": "Bachelor's in Administration",
+          "year": 2013
+        }
+      ],
+      "experience": [
+        {
+          "company": "RetailChain",
+          "role": "Retail Manager",
+          "duration": "2015 - Present"
+        },
+        {
+          "company": "Store Operations",
+          "role": "Assistant Manager",
+          "duration": "2013 - 2015"
+        }
+      ],
+      "skills": ["Store Management", "Sales Leadership", "Inventory", "Staff Training", "Customer Service"],
+      "softSkills": ["Leadership", "Customer Focus", "Problem Solving", "Communication"],
+      "hobbies": ["Retail trends", "Customer service", "Reading"],
+      "connections": 225
+    },
+    {
+      "id": 54,
+      "name": "Aline Ribeiro",
+      "title": "Grant Writer",
+      "area": "Content",
+      "city": "Caarapó",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Grant writer helping organizations secure funding through compelling proposals.",
+      "education": [
+        {
+          "school": "UFMS",
+          "degree": "Bachelor's in English",
+          "year": 2016
+        }
+      ],
+      "experience": [
+        {
+          "company": "GrantHub",
+          "role": "Grant Writer",
+          "duration": "2017 - Present"
+        },
+        {
+          "company": "Non-profit",
+          "role": "Development Coordinator",
+          "duration": "2016 - 2017"
+        }
+      ],
+      "skills": ["Grant Writing", "Proposal Development", "Research", "Fundraising", "Communication"],
+      "softSkills": ["Research", "Communication", "Persuasion", "Organization"],
+      "hobbies": ["Grant writing", "Fundraising", "Reading"],
+      "connections": 175
+    },
+    {
+      "id": 55,
+      "name": "Vanderley Santos",
+      "title": "Risk Manager",
+      "area": "Finance",
+      "city": "Maracaju",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Risk management specialist identifying and mitigating organizational risks.",
+      "education": [
+        {
+          "school": "UFMS",
+          "degree": "Master's in Finance",
+          "year": 2018
+        }
+      ],
+      "experience": [
+        {
+          "company": "RiskManagement",
+          "role": "Risk Manager",
+          "duration": "2019 - Present"
+        },
+        {
+          "company": "Financial Services",
+          "role": "Risk Analyst",
+          "duration": "2016 - 2019"
+        }
+      ],
+      "skills": ["Risk Analysis", "Compliance", "Financial Planning", "Scenario Analysis", "Reporting"],
+      "softSkills": ["Analytical", "Strategic Thinking", "Problem Solving", "Communication"],
+      "hobbies": ["Risk analysis", "Financial news", "Reading"],
+      "connections": 165
+    },
+    {
+      "id": 56,
+      "name": "Priscila Costa",
+      "title": "Exhibition Designer",
+      "area": "Design",
+      "city": "Eldorado",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Exhibition designer creating immersive experiences and curated spaces.",
+      "education": [
+        {
+          "school": "UFMS",
+          "degree": "Bachelor's in Fine Arts",
+          "year": 2017
+        }
+      ],
+      "experience": [
+        {
+          "company": "ExhibitionStudio",
+          "role": "Exhibition Designer",
+          "duration": "2018 - Present"
+        },
+        {
+          "company": "Museum",
+          "role": "Curatorial Assistant",
+          "duration": "2017 - 2018"
+        }
+      ],
+      "skills": ["Exhibition Design", "Curation", "3D Design", "Project Management", "Spatial Planning"],
+      "softSkills": ["Creativity", "Attention to Detail", "Project Management", "Communication"],
+      "hobbies": ["Exhibition design", "Art", "Museums"],
+      "connections": 145
+    },
+    {
+      "id": 57,
+      "name": "Cristiano Oliveira",
+      "title": "Performance Coach",
+      "area": "Management",
+      "city": "Juti",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Performance coach helping individuals and teams achieve their full potential.",
+      "education": [
+        {
+          "school": "UFMS",
+          "degree": "Master's in Coaching",
+          "year": 2019
+        }
+      ],
+      "experience": [
+        {
+          "company": "PerformanceHub",
+          "role": "Performance Coach",
+          "duration": "2020 - Present"
+        },
+        {
+          "company": "Training Company",
+          "role": "Trainer",
+          "duration": "2018 - 2020"
+        }
+      ],
+      "skills": ["Executive Coaching", "Performance Management", "Leadership Development", "Mentoring", "Communication"],
+      "softSkills": ["Empathy", "Communication", "Coaching", "Mentoring"],
+      "hobbies": ["Coaching", "Self-improvement", "Reading"],
+      "connections": 190
+    },
+    {
+      "id": 58,
+      "name": "Bruna Martinez",
+      "title": "Video Producer",
+      "area": "Content",
+      "city": "Sete Quedas",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Video producer creating engaging visual content and multimedia experiences.",
+      "education": [
+        {
+          "school": "UFMS",
+          "degree": "Bachelor's in Film Production",
+          "year": 2018
+        }
+      ],
+      "experience": [
+        {
+          "company": "VideoStudio",
+          "role": "Video Producer",
+          "duration": "2019 - Present"
+        },
+        {
+          "company": "Media Company",
+          "role": "Production Assistant",
+          "duration": "2018 - 2019"
+        }
+      ],
+      "skills": ["Video Editing", "Cinematography", "Post-Production", "Adobe Suite", "Scriptwriting"],
+      "softSkills": ["Creativity", "Attention to Detail", "Collaboration", "Problem Solving"],
+      "hobbies": ["Filmmaking", "Photography", "Video editing"],
+      "connections": 210
+    },
+    {
+      "id": 59,
+      "name": "Fabio Santos",
+      "title": "Vendor Manager",
+      "area": "Operations",
+      "city": "Naviraí",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Vendor specialist managing supplier relationships and optimizing procurement.",
+      "education": [
+        {
+          "school": "UFMS",
+          "degree": "Bachelor's in Business Administration",
+          "year": 2014
+        }
+      ],
+      "experience": [
+        {
+          "company": "ProcurementHub",
+          "role": "Vendor Manager",
+          "duration": "2016 - Present"
+        },
+        {
+          "company": "Purchasing Department",
+          "role": "Procurement Specialist",
+          "duration": "2014 - 2016"
+        }
+      ],
+      "skills": ["Vendor Management", "Procurement", "Negotiation", "Contract Management", "Supplier Relations"],
+      "softSkills": ["Negotiation", "Relationship Building", "Problem Solving", "Attention to Detail"],
+      "hobbies": ["Procurement", "Supplier management", "Reading"],
+      "connections": 155
+    },
+    {
+      "id": 60,
+      "name": "Marilia Costa",
+      "title": "Research Manager",
+      "area": "Tech",
+      "city": "Inocência",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "bio": "Research manager leading innovation and driving technological advancement.",
+      "education": [
+        {
+          "school": "UFMS",
+          "degree": "PhD in Computer Science",
+          "year": 2020
+        }
+      ],
+      "experience": [
+        {
+          "company": "ResearchLab",
+          "role": "Research Manager",
+          "duration": "2021 - Present"
+        },
+        {
+          "company": "University",
+          "role": "Researcher",
+          "duration": "2018 - 2021"
+        }
+      ],
+      "skills": ["Research Methodology", "Data Analysis", "Publication", "Team Leadership", "Innovation"],
+      "softSkills": ["Critical Thinking", "Analytical", "Leadership", "Communication"],
+      "hobbies": ["Research", "Reading papers", "Innovation"],
+      "connections": 185
+    }
+  ]
+}
