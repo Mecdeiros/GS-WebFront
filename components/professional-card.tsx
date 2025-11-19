@@ -2,11 +2,13 @@ import { Card } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import type { Professional } from '@/types/professional'
 
+// Props for the ProfessionalCard component
 interface ProfessionalCardProps {
   professional: Professional
   onClick: () => void
 }
 
+// Functional component to display a professional's card
 export default function ProfessionalCard({ professional, onClick }: ProfessionalCardProps) {
   return (
     <Card

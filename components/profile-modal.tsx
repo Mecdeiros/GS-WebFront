@@ -15,6 +15,7 @@ import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
 import type { Professional } from '@/types/professional'
 
+// Props for the ProfileModal component
 interface ProfileModalProps {
   professional: Professional
   onClose: () => void
