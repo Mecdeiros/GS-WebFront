@@ -18,7 +18,7 @@ export default function Home() {
   const [selectedArea, setSelectedArea] = useState('')
   const [selectedCity, setSelectedCity] = useState('')
   const [selectedSkill, setSelectedSkill] = useState('')
-  const [currentPage, setCurrentPage] = useState(1) // Added pagination state
+  const [currentPage, setCurrentPage] = useState(1) 
 
   useEffect(() => {
     fetch('/professionals.json')
